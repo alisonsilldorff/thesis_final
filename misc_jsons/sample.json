@@ -1,0 +1,406 @@
+{
+    "/broadway-production/chicago-4804": {
+        "url": "https://ibdb.com/broadway-production/chicago-4804",
+        "title": "Chicago",
+        "tags": [
+            "Musical",
+            "Comedy",
+            "Revival",
+            "Broadway"
+        ],
+        "opening": "Nov 14, 1996",
+        "preview": "Oct 23, 1996",
+        "num_previews": "24",
+        "closing": "",
+        "num_perfs": "11,049",
+        "people": [
+            "Book by Fred Ebb and Bob Fosse",
+            " Music by John Kander",
+            " Lyrics by Fred Ebb",
+            " Musical Director: Rob Fisher",
+            " Based on the play by Maurine Dallas Watkins",
+            " Original orchestrations by Ralph Burns",
+            " Dance arrangements by Peter Howard",
+            " Script adaptation by David Thompson"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/fred-ebb-5654",
+            "https://www.ibdb.com/broadway-cast-staff/bob-fosse-4563",
+            "https://www.ibdb.com/broadway-cast-staff/john-kander-6837",
+            "https://www.ibdb.com/broadway-cast-staff/fred-ebb-5654",
+            "https://www.ibdb.com/broadway-cast-staff/rob-fisher-75240",
+            "https://www.ibdb.com/broadway-cast-staff/maurine-dallas-watkins-75230",
+            "https://www.ibdb.com/broadway-cast-staff/ralph-burns-12650",
+            "https://www.ibdb.com/broadway-cast-staff/peter-howard-11893",
+            "https://www.ibdb.com/broadway-cast-staff/david-thompson-5013"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/joel-grey-43105": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joel-grey-43105",
+                "actor": "Joel Grey",
+                "roles": {
+                    "Amos Hart": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/james-naughton-15756": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/james-naughton-15756",
+                "actor": "James Naughton",
+                "roles": {
+                    "Billy Flynn": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bebe-neuwirth-54414": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bebe-neuwirth-54414",
+                "actor": "Bebe Neuwirth",
+                "roles": {
+                    "Velma Kelly": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/ann-reinking-15964": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/ann-reinking-15964",
+                "actor": "Ann Reinking",
+                "roles": {
+                    "Roxie Hart": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/marcia-lewis-73301": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/marcia-lewis-73301",
+                "actor": "Marcia Lewis",
+                "roles": {
+                    "Matron": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/d-sabella-73302": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/d-sabella-73302",
+                "actor": "D. Sabella",
+                "roles": {
+                    "Mary Sunshine": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/michael-berresse-31925": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/michael-berresse-31925",
+                "actor": "Michael Berresse",
+                "roles": {
+                    "Fred Casely": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jim-borstelmann-75237": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jim-borstelmann-75237",
+                "actor": "Jim Borstelmann",
+                "roles": {
+                    "Judge": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/caitlin-carter-72888": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/caitlin-carter-72888",
+                "actor": "Caitlin Carter",
+                "roles": {
+                    "Mona": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bruce-anthony-davis-73669": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bruce-anthony-davis-73669",
+                "actor": "Bruce Anthony Davis",
+                "roles": {
+                    "Doctor": "",
+                    "Martin Harrison": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mamie-duncan-gibbs-75232": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mamie-duncan-gibbs-75232",
+                "actor": "Mamie Duncan-Gibbs",
+                "roles": {
+                    "Annie": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/denise-faye-71990": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/denise-faye-71990",
+                "actor": "Denise Faye",
+                "roles": {
+                    "Liz": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/michael-kubala-72364": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/michael-kubala-72364",
+                "actor": "Michael Kubala",
+                "roles": {
+                    "Sergeant Fogarty": "",
+                    "Juror": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mary-ann-lamb-48761": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mary-ann-lamb-48761",
+                "actor": "Mary Ann Lamb",
+                "roles": {
+                    "June": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-mineo-75238": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-mineo-75238",
+                "actor": "John Mineo",
+                "roles": {
+                    "Bailiff": "",
+                    "Court Clerk": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/tina-paul-1371": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/tina-paul-1371",
+                "actor": "Tina Paul",
+                "roles": {
+                    "Hunyak": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/rocker-verastique-73803": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/rocker-verastique-73803",
+                "actor": "Rocker Verastique",
+                "roles": {
+                    "Harry": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/david-warren-gibson-75236": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/david-warren-gibson-75236",
+                "actor": "David Warren-Gibson",
+                "roles": {
+                    "Aaron": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/leigh-zimmerman-73259": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/leigh-zimmerman-73259",
+                "actor": "Leigh Zimmerman",
+                "roles": {
+                    "Go-To-Hell-Kitty": ""
+                },
+                "debut": false
+            }
+        },
+        "replacement_cast": {}
+    },
+    "/broadway-production/the-outsiders-537824": {
+        "url": "https://ibdb.com/broadway-production/the-outsiders-537824",
+        "title": "The Outsiders",
+        "tags": [
+            "Musical",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "Apr 11, 2024",
+        "preview": "Mar 16, 2024",
+        "num_previews": "25",
+        "closing": "",
+        "num_perfs": "299",
+        "people": [
+            "Book by Adam Rapp and Justin Levine",
+            " Music by Jamestown Revival (Jonathan Clay & Zach Chance) and Justin Levine",
+            " Lyrics by Jamestown Revival (Jonathan Clay & Zach Chance) and Justin Levine",
+            " Based on the Novel by S. E. Hinton",
+            " Based on the Motion Picture by Francis Ford Coppola",
+            " Music orchestrated by Justin Levine",
+            " Music arranged by Justin Levine",
+            " Co-Orchestrator: Matt Hinkley",
+            " Musical Director: Matt Hinkley",
+            " Additional Arrangements: Ed Benrock, Jamie Eblen, Mark G. Meadows and Justin Smith"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/adam-rapp-453092",
+            "https://www.ibdb.com/broadway-cast-staff/justin-levine-488795",
+            "https://www.ibdb.com/broadway-cast-staff/jamestown-revival-jonathan-clay-zach-chance-537828",
+            "https://www.ibdb.com/broadway-cast-staff/justin-levine-488795",
+            "https://www.ibdb.com/broadway-cast-staff/jamestown-revival-jonathan-clay-zach-chance-537828",
+            "https://www.ibdb.com/broadway-cast-staff/justin-levine-488795",
+            "https://www.ibdb.com/broadway-cast-staff/s-e-hinton-537836",
+            "https://www.ibdb.com/broadway-cast-staff/francis-ford-coppola-71775",
+            "https://www.ibdb.com/broadway-cast-staff/justin-levine-488795",
+            "https://www.ibdb.com/broadway-cast-staff/justin-levine-488795",
+            "https://www.ibdb.com/broadway-cast-staff/matt-hinkley-490973",
+            "https://www.ibdb.com/broadway-cast-staff/matt-hinkley-490973",
+            "https://www.ibdb.com/broadway-cast-staff/ed-benrock-539146",
+            "https://www.ibdb.com/broadway-cast-staff/jamie-eblen-498786",
+            "https://www.ibdb.com/broadway-cast-staff/mark-g-meadows-539143",
+            "https://www.ibdb.com/broadway-cast-staff/justin-smith-488930"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/dan-berry-538578": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dan-berry-538578",
+                "actor": "Dan Berry",
+                "roles": {
+                    "Paul": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joshua-boone-496975": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joshua-boone-496975",
+                "actor": "Joshua Boone",
+                "roles": {
+                    "Dallas Winston": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/brent-comer-525017": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/brent-comer-525017",
+                "actor": "Brent Comer",
+                "roles": {
+                    "Darrel Curtis": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/brody-grant-538373": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/brody-grant-538373",
+                "actor": "Brody Grant",
+                "roles": {
+                    "Ponyboy Curtis": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/sky-lakota-lynch-518661": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/sky-lakota-lynch-518661",
+                "actor": "Sky Lakota-Lynch",
+                "roles": {
+                    "Johnny Cade": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kevin-william-paul-538416": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kevin-william-paul-538416",
+                "actor": "Kevin William Paul",
+                "roles": {
+                    "Bob": "",
+                    "Cop": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/emma-pittman-534739": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/emma-pittman-534739",
+                "actor": "Emma Pittman",
+                "roles": {
+                    "Cherry Valance": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jason-schmidt-538375": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jason-schmidt-538375",
+                "actor": "Jason Schmidt",
+                "roles": {
+                    "Sodapop Curtis": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/daryl-tofa-522313": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/daryl-tofa-522313",
+                "actor": "Daryl Tofa",
+                "roles": {
+                    "Two-Bit": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/barton-cowperthwaite-509577": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/barton-cowperthwaite-509577",
+                "actor": "Barton Cowperthwaite",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/tilly-evans-krueger-527084": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/tilly-evans-krueger-527084",
+                "actor": "Tilly Evans-Krueger",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/rj-higton-538583": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/rj-higton-538583",
+                "actor": "RJ Higton",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/wonza-johnson-517199": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/wonza-johnson-517199",
+                "actor": "Wonza Johnson",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/sean-harrison-jones-518590": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/sean-harrison-jones-518590",
+                "actor": "Sean Harrison Jones",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/renni-anthony-magee-532162": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/renni-anthony-magee-532162",
+                "actor": "Renni Anthony Magee",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/sarahgrace-mariani-522275": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/sarahgrace-mariani-522275",
+                "actor": "SarahGrace Mariani",
+                "roles": {
+                    "Marcia": "",
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/melody-rose-526480": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/melody-rose-526480",
+                "actor": "Melody Rose",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/josh-strobl-520974": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/josh-strobl-520974",
+                "actor": "Josh Strobl",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/trevor-wayne-538586": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/trevor-wayne-538586",
+                "actor": "Trevor Wayne",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            }
+        },
+        "replacement_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/andre-malcolm-540823": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/andre-malcolm-540823",
+                "actor": "Andre Malcolm",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            }
+        }
+    }
+}

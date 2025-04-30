@@ -1,0 +1,2021 @@
+{
+    "/broadway-production/spring-awakening-448811": {
+        "url": "https://ibdb.com/broadway-production/spring-awakening-448811",
+        "title": "Spring Awakening",
+        "tags": [
+            "Musical",
+            "Drama",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "Dec 10, 2006",
+        "preview": "Nov 16, 2006",
+        "num_previews": "28",
+        "closing": "Jan 18, 2009",
+        "num_perfs": "859",
+        "people": [
+            "Music by Duncan Sheik",
+            " Lyrics by Steven Sater",
+            " Book by Steven Sater",
+            " Music orchestrated by Duncan Sheik",
+            " Vocal arrangements by AnnMarie Milazzo",
+            " Additional arragements by Simon Hale",
+            " Musical Director: Kimberly Grigsby",
+            " Based on the play by Frank Wedekind",
+            " Associate Musical Dir.: Deborah Abramson"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/duncan-sheik-448812",
+            "https://www.ibdb.com/broadway-cast-staff/steven-sater-448813",
+            "https://www.ibdb.com/broadway-cast-staff/steven-sater-448813",
+            "https://www.ibdb.com/broadway-cast-staff/duncan-sheik-448812",
+            "https://www.ibdb.com/broadway-cast-staff/annmarie-milazzo-454221",
+            "https://www.ibdb.com/broadway-cast-staff/simon-hale-454222",
+            "https://www.ibdb.com/broadway-cast-staff/kimberly-grigsby-69861",
+            "https://www.ibdb.com/broadway-cast-staff/frank-wedekind-454225",
+            "https://www.ibdb.com/broadway-cast-staff/deborah-abramson-454280"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/skylar-astin-449494": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/skylar-astin-449494",
+                "actor": "Skylar Astin",
+                "roles": {
+                    "Georg": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gerard-canonico-110581": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gerard-canonico-110581",
+                "actor": "Gerard Canonico",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/lilli-cooper-449495": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/lilli-cooper-449495",
+                "actor": "Lilli Cooper",
+                "roles": {
+                    "Martha": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jennifer-damiano-454228": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jennifer-damiano-454228",
+                "actor": "Jennifer Damiano",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/christine-estabrook-74054": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/christine-estabrook-74054",
+                "actor": "Christine Estabrook",
+                "roles": {
+                    "The Adult Women": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-gallagher-jr-408630": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-gallagher-jr-408630",
+                "actor": "John Gallagher Jr.",
+                "roles": {
+                    "Moritz": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gideon-glick-449496": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gideon-glick-449496",
+                "actor": "Gideon Glick",
+                "roles": {
+                    "Ernst": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jonathan-groff-406200": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jonathan-groff-406200",
+                "actor": "Jonathan Groff",
+                "roles": {
+                    "Melchior": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/robert-hager-454229": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/robert-hager-454229",
+                "actor": "Robert Hager",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/brian-charles-johnson-454230": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/brian-charles-johnson-454230",
+                "actor": "Brian Charles Johnson",
+                "roles": {
+                    "Otto": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/lea-michele-70191": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/lea-michele-70191",
+                "actor": "Lea Michele",
+                "roles": {
+                    "Wendla": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/lauren-pritchard-449498": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/lauren-pritchard-449498",
+                "actor": "Lauren Pritchard",
+                "roles": {
+                    "Ilse": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/krysta-rodriguez-391082": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/krysta-rodriguez-391082",
+                "actor": "Krysta Rodriguez",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/stephen-spinella-60700": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/stephen-spinella-60700",
+                "actor": "Stephen Spinella",
+                "roles": {
+                    "The Adult Men": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/phoebe-strole-449499": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/phoebe-strole-449499",
+                "actor": "Phoebe Strole",
+                "roles": {
+                    "Anna": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jonathan-b-wright-449500": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jonathan-b-wright-449500",
+                "actor": "Jonathan B. Wright",
+                "roles": {
+                    "Hanschen": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/remy-zaken-449501": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/remy-zaken-449501",
+                "actor": "Remy Zaken",
+                "roles": {
+                    "Thea": ""
+                },
+                "debut": false
+            }
+        },
+        "replacement_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/blake-bashoff-474688": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/blake-bashoff-474688",
+                "actor": "Blake Bashoff",
+                "roles": {
+                    "Moritz": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/drew-tyler-bell-504804": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/drew-tyler-bell-504804",
+                "actor": "Drew Tyler Bell",
+                "roles": {
+                    "Hanschen": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kate-burton-33838": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kate-burton-33838",
+                "actor": "Kate Burton",
+                "roles": {
+                    "The Adult Women": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gerard-canonico-110581": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gerard-canonico-110581",
+                "actor": "Gerard Canonico",
+                "roles": {
+                    "Moritz": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/amanda-castaos-488889": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/amanda-castaos-488889",
+                "actor": "Amanda Casta\u00f1os",
+                "roles": {
+                    "Martha": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/blake-daniel-470400": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/blake-daniel-470400",
+                "actor": "Blake Daniel",
+                "roles": {
+                    "Ernst": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/matt-doyle-460668": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/matt-doyle-460668",
+                "actor": "Matt Doyle",
+                "roles": {
+                    "Hanschen": "",
+                    "Melchior": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/andrew-durand-488888": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/andrew-durand-488888",
+                "actor": "Andrew Durand",
+                "roles": {
+                    "Georg": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/christine-estabrook-74054": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/christine-estabrook-74054",
+                "actor": "Christine Estabrook",
+                "roles": {
+                    "The Adult Women": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/glenn-fleshler-423807": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/glenn-fleshler-423807",
+                "actor": "Glenn Fleshler",
+                "roles": {
+                    "The Adult Men": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/emma-hunton-477517": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/emma-hunton-477517",
+                "actor": "Emma Hunton",
+                "roles": {
+                    "Ilse": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/morgan-karr-488887": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/morgan-karr-488887",
+                "actor": "Morgan Karr",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/emily-kinney-488890": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/emily-kinney-488890",
+                "actor": "Emily Kinney",
+                "roles": {
+                    "Anna": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/caitlin-kinnunen-488892": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/caitlin-kinnunen-488892",
+                "actor": "Caitlin Kinnunen",
+                "roles": {
+                    "Thea": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/alice-lee-478995": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/alice-lee-478995",
+                "actor": "Alice Lee",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/eryn-murman-478996": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/eryn-murman-478996",
+                "actor": "Eryn Murman",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kristine-nielsen-76221": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kristine-nielsen-76221",
+                "actor": "Kristine Nielsen",
+                "roles": {
+                    "The Adult Women": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/hunter-parrish-480147": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/hunter-parrish-480147",
+                "actor": "Hunter Parrish",
+                "roles": {
+                    "Melchior": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/zach-reiner-harris-488893": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/zach-reiner-harris-488893",
+                "actor": "Zach Reiner-Harris",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kyle-riabko-478976": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kyle-riabko-478976",
+                "actor": "Kyle Riabko",
+                "roles": {
+                    "Melchior": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/matt-shingledecker-478997": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/matt-shingledecker-478997",
+                "actor": "Matt Shingledecker",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/alexandra-socha-470401": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/alexandra-socha-470401",
+                "actor": "Alexandra Socha",
+                "roles": {
+                    "Ensemble": "",
+                    "Wendla": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jesse-swenson-470399": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jesse-swenson-470399",
+                "actor": "Jesse Swenson",
+                "roles": {
+                    "Ensemble": "",
+                    "Melchior": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gabriel-violett-488891": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gabriel-violett-488891",
+                "actor": "Gabriel Violett",
+                "roles": {
+                    "Otto": ""
+                },
+                "debut": false
+            }
+        }
+    },
+    "/broadway-production/sweeney-todd-400379": {
+        "url": "https://ibdb.com/broadway-production/sweeney-todd-400379",
+        "title": "Sweeney Todd",
+        "tags": [
+            "Musical",
+            "Thriller",
+            "Revival",
+            "Broadway"
+        ],
+        "opening": "Nov 03, 2005",
+        "preview": "Oct 03, 2005",
+        "num_previews": "35",
+        "closing": "Sep 03, 2006",
+        "num_perfs": "349",
+        "people": [
+            "Music by Stephen Sondheim",
+            " Lyrics by Stephen Sondheim",
+            " Book by Hugh Wheeler",
+            " From an Adaptation by Christopher Bond",
+            " Music orchestrated by Sarah Travis"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/stephen-sondheim-12430",
+            "https://www.ibdb.com/broadway-cast-staff/stephen-sondheim-12430",
+            "https://www.ibdb.com/broadway-cast-staff/hugh-wheeler-6402",
+            "https://www.ibdb.com/broadway-cast-staff/christopher-bond-73702",
+            "https://www.ibdb.com/broadway-cast-staff/sarah-travis-400380"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/michael-cerveris-67061": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/michael-cerveris-67061",
+                "actor": "Michael Cerveris",
+                "roles": {
+                    "Sweeney Todd": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/patti-lupone-50271": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/patti-lupone-50271",
+                "actor": "Patti LuPone",
+                "roles": {
+                    "Mrs. Lovett": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-arbo-392435": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-arbo-392435",
+                "actor": "John Arbo",
+                "roles": {
+                    "Jonas Fogg": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/donna-lynne-champlin-76322": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/donna-lynne-champlin-76322",
+                "actor": "Donna Lynne Champlin",
+                "roles": {
+                    "Pirelli": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/diana-dimarzio-405998": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/diana-dimarzio-405998",
+                "actor": "Diana DiMarzio",
+                "roles": {
+                    "Beggar Woman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/manoel-felciano-76174": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/manoel-felciano-76174",
+                "actor": "Manoel Felciano",
+                "roles": {
+                    "Tobias Ragg": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/alexander-gemignani-87739": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/alexander-gemignani-87739",
+                "actor": "Alexander Gemignani",
+                "roles": {
+                    "The Beadle": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mark-jacoby-46753": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mark-jacoby-46753",
+                "actor": "Mark Jacoby",
+                "roles": {
+                    "Judge Turpin": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/benjamin-magnuson-406000": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/benjamin-magnuson-406000",
+                "actor": "Benjamin Magnuson",
+                "roles": {
+                    "Anthony Hope": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/lauren-molina-406001": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/lauren-molina-406001",
+                "actor": "Lauren Molina",
+                "roles": {
+                    "Johanna": ""
+                },
+                "debut": false
+            }
+        },
+        "replacement_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/judy-kaye-47553": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/judy-kaye-47553",
+                "actor": "Judy Kaye",
+                "roles": {
+                    "Mrs. Lovett": ""
+                },
+                "debut": false
+            }
+        }
+    },
+    "/broadway-production/hello-dolly-4308": {
+        "url": "https://ibdb.com/broadway-production/hello-dolly-4308",
+        "title": "Hello, Dolly!",
+        "tags": [
+            "Musical",
+            "Comedy",
+            "Revival",
+            "Broadway"
+        ],
+        "opening": "Oct 19, 1995",
+        "preview": "Oct 11, 1995",
+        "num_previews": "11",
+        "closing": "Jan 28, 1996",
+        "num_perfs": "116",
+        "people": [
+            "Book by Michael Stewart",
+            " Music by Jerry Herman",
+            " Lyrics by Jerry Herman",
+            " Based on the play \"The Matchmaker\" by Thornton Wilder",
+            " Music orchestrated by Philip J. Lang",
+            " Dance arrangements by Peter Howard",
+            " Musical Director: Jack Everly"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/michael-stewart-7748",
+            "https://www.ibdb.com/broadway-cast-staff/jerry-herman-6278",
+            "https://www.ibdb.com/broadway-cast-staff/jerry-herman-6278",
+            "https://www.ibdb.com/broadway-cast-staff/thornton-wilder-8887",
+            "https://www.ibdb.com/broadway-cast-staff/philip-j-lang-72102",
+            "https://www.ibdb.com/broadway-cast-staff/peter-howard-11893",
+            "https://www.ibdb.com/broadway-cast-staff/jack-everly-72103"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/carol-channing-35029": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/carol-channing-35029",
+                "actor": "Carol Channing",
+                "roles": {
+                    "Mrs. Dolly Gallagher Levi": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/michael-devries-37646": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/michael-devries-37646",
+                "actor": "Michael DeVries",
+                "roles": {
+                    "Cornelius Hackl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jay-garner-41800": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jay-garner-41800",
+                "actor": "Jay Garner",
+                "roles": {
+                    "Horace Vandergelder": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/florence-lacey-48700": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/florence-lacey-48700",
+                "actor": "Florence Lacey",
+                "roles": {
+                    "Irene Molloy": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-bantay-72124": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-bantay-72124",
+                "actor": "John Bantay",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/desta-barbieri-72239": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/desta-barbieri-72239",
+                "actor": "Desta Barbieri",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bill-bateman-72232": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bill-bateman-72232",
+                "actor": "Bill Bateman",
+                "roles": {
+                    "Judge": "",
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kimberly-bellmann-72128": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kimberly-bellmann-72128",
+                "actor": "Kimberly Bellmann",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bruce-blanchard-72129": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bruce-blanchard-72129",
+                "actor": "Bruce Blanchard",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/stephen-bourneuf-72131": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/stephen-bourneuf-72131",
+                "actor": "Stephen Bourneuf",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/julian-brightman-72133": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/julian-brightman-72133",
+                "actor": "Julian Brightman",
+                "roles": {
+                    "Stanley": "",
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/holly-cruikshank-71535": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/holly-cruikshank-71535",
+                "actor": "Holly Cruikshank",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/james-darrah-72109": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/james-darrah-72109",
+                "actor": "James Darrah",
+                "roles": {
+                    "Ambrose Kemper": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/christine-devito-72118": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/christine-devito-72118",
+                "actor": "Christine DeVito",
+                "roles": {
+                    "Ermengarde": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/cory-english-72106": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/cory-english-72106",
+                "actor": "Cory English",
+                "roles": {
+                    "Barnaby Tucker": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/simone-gee-72134": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/simone-gee-72134",
+                "actor": "Simone Gee",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jason-gillman-72135": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jason-gillman-72135",
+                "actor": "Jason Gillman",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/milica-govich-72136": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/milica-govich-72136",
+                "actor": "Milica Govich",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/elizabeth-green-72120": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/elizabeth-green-72120",
+                "actor": "Elizabeth Green",
+                "roles": {
+                    "Mrs. Rose": "",
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/donald-ives-72137": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/donald-ives-72137",
+                "actor": "Donald Ives",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/dan-lobuono-72240": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dan-lobuono-72240",
+                "actor": "Dan LoBuono",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jim-madden-72139": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jim-madden-72139",
+                "actor": "Jim Madden",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/lori-ann-mahl-72119": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/lori-ann-mahl-72119",
+                "actor": "Lori Ann Mahl",
+                "roles": {
+                    "Minnie Fay": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/halden-michaels-72123": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/halden-michaels-72123",
+                "actor": "Halden Michaels",
+                "roles": {
+                    "Court Clerk": "",
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/sharon-moore-72110": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/sharon-moore-72110",
+                "actor": "Sharon Moore",
+                "roles": {
+                    "Horse": "",
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/steve-pudenz-72121": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/steve-pudenz-72121",
+                "actor": "Steve Pudenz",
+                "roles": {
+                    "Rudolph": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/michael-quinn-72140": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/michael-quinn-72140",
+                "actor": "Michael Quinn",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/robert-randle-72141": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/robert-randle-72141",
+                "actor": "Robert Randle",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mitch-rosengarten-72142": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mitch-rosengarten-72142",
+                "actor": "Mitch Rosengarten",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mary-setrakian-72143": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mary-setrakian-72143",
+                "actor": "Mary Setrakian",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/clarence-m-sheridan-72144": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/clarence-m-sheridan-72144",
+                "actor": "Clarence M. Sheridan",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/randy-slovacek-72145": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/randy-slovacek-72145",
+                "actor": "Randy Slovacek",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/roger-preston-smith-69981": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/roger-preston-smith-69981",
+                "actor": "Roger Preston Smith",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/ashley-stover-72146": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/ashley-stover-72146",
+                "actor": "Ashley Stover",
+                "roles": {
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/michele-tibbitts-72111": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/michele-tibbitts-72111",
+                "actor": "Michele Tibbitts",
+                "roles": {
+                    "Horse": "",
+                    "Ensemble": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/monica-m-wemitt-72108": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/monica-m-wemitt-72108",
+                "actor": "Monica M. Wemitt",
+                "roles": {
+                    "Ernestina": ""
+                },
+                "debut": false
+            }
+        },
+        "replacement_cast": {}
+    },
+    "/broadway-production/the-best-little-whorehouse-goes-public-4609": {
+        "url": "https://ibdb.com/broadway-production/the-best-little-whorehouse-goes-public-4609",
+        "title": "The Best Little Whorehouse Goes Public",
+        "tags": [
+            "Musical",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "May 10, 1994",
+        "preview": "Apr 14, 1994",
+        "num_previews": "28",
+        "closing": "May 22, 1994",
+        "num_perfs": "16",
+        "people": [
+            "Book by Larry L. King and Peter Masterson",
+            " Music by Carol Hall",
+            " Lyrics by Carol Hall",
+            " Music orchestrated by Peter Matz",
+            " Vocal arrangements by Wally Harper",
+            " Dance arrangements by Wally Harper",
+            " Musical and Vocal Director: Karl Jurman"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/larry-l-king-7149",
+            "https://www.ibdb.com/broadway-cast-staff/peter-masterson-8123",
+            "https://www.ibdb.com/broadway-cast-staff/carol-hall-11810",
+            "https://www.ibdb.com/broadway-cast-staff/carol-hall-11810",
+            "https://www.ibdb.com/broadway-cast-staff/peter-matz-12121",
+            "https://www.ibdb.com/broadway-cast-staff/wally-harper-69947",
+            "https://www.ibdb.com/broadway-cast-staff/wally-harper-69947",
+            "https://www.ibdb.com/broadway-cast-staff/karl-jurman-73359"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/dee-hoty-45642": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dee-hoty-45642",
+                "actor": "Dee Hoty",
+                "roles": {
+                    "Mona Stangley": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/ronn-carroll-34705": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/ronn-carroll-34705",
+                "actor": "Ronn Carroll",
+                "roles": {
+                    "Senator A. Harry Hardast": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kevin-cooney-73929": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kevin-cooney-73929",
+                "actor": "Kevin Cooney",
+                "roles": {
+                    "I. R. S. Director": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/david-doty-73931": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/david-doty-73931",
+                "actor": "David Doty",
+                "roles": {
+                    "The President of the United States": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/scott-holmes-45471": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/scott-holmes-45471",
+                "actor": "Scott Holmes",
+                "roles": {
+                    "Sam Dallas": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gina-torres-73932": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gina-torres-73932",
+                "actor": "Gina Torres",
+                "roles": {
+                    "Terri Clark": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/susannah-blinkoff-73945": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/susannah-blinkoff-73945",
+                "actor": "Susannah Blinkoff",
+                "roles": {
+                    "Pit Vocalist": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gerry-burkhardt-72360": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gerry-burkhardt-72360",
+                "actor": "Gerry Burkhardt",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/laurel-lynn-collins-73933": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/laurel-lynn-collins-73933",
+                "actor": "Laurel Lynn Collins",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jim-david-73930": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jim-david-73930",
+                "actor": "Jim David",
+                "roles": {
+                    "Comedian": "",
+                    "The President's Hairdresser": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/sally-mae-dunn-73348": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/sally-mae-dunn-73348",
+                "actor": "Sally Mae Dunn",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/pamela-everett-72361": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/pamela-everett-72361",
+                "actor": "Pamela Everett",
+                "roles": {
+                    "Street Whore": "",
+                    "Lotta Lovingood": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/tom-flagg-73354": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/tom-flagg-73354",
+                "actor": "Tom Flagg",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/ganine-giorgione-73934": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/ganine-giorgione-73934",
+                "actor": "Ganine Giorgione",
+                "roles": {
+                    "Street Whore": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joe-hart-73935": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joe-hart-73935",
+                "actor": "Joe Hart",
+                "roles": {
+                    "Showroom Patron": "",
+                    "A Client of the Whorehouse": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/amy-n-heggins-73936": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/amy-n-heggins-73936",
+                "actor": "Amy N. Heggins",
+                "roles": {
+                    "Street Whore": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/don-johanson-73937": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/don-johanson-73937",
+                "actor": "Don Johanson",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/troy-britton-johnson-73346": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/troy-britton-johnson-73346",
+                "actor": "Troy Britton Johnson",
+                "roles": {
+                    "Showroom Headliner": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/nancy-lamott-73943": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/nancy-lamott-73943",
+                "actor": "Nancy LaMott",
+                "roles": {
+                    "Pit Vocalist": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mark-manley-73938": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mark-manley-73938",
+                "actor": "Mark Manley",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mary-frances-mccatty-73939": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mary-frances-mccatty-73939",
+                "actor": "Mary Frances McCatty",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/casey-nicholaw-71261": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/casey-nicholaw-71261",
+                "actor": "Casey Nicholaw",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/ryan-perry-73944": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/ryan-perry-73944",
+                "actor": "Ryan Perry",
+                "roles": {
+                    "Pit Vocalist": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/louise-ruck-72374": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/louise-ruck-72374",
+                "actor": "Louise Ruck",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/danny-rutigliano-70803": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/danny-rutigliano-70803",
+                "actor": "Danny Rutigliano",
+                "roles": {
+                    "Ralph J. Bostick": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/william-ryall-69683": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/william-ryall-69683",
+                "actor": "William Ryall",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/lainie-sakakura-71546": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/lainie-sakakura-71546",
+                "actor": "Lainie Sakakura",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Working Girl": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/shaver-tillitt-73940": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/shaver-tillitt-73940",
+                "actor": "Shaver Tillitt",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jillana-urbina-73353": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jillana-urbina-73353",
+                "actor": "Jillana Urbina",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/richard-vida-73941": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/richard-vida-73941",
+                "actor": "Richard Vida",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Wall Street Wolf": ""
+                },
+                "debut": true
+            },
+            "https://www.ibdb.com/broadway-cast-staff/theara-j-ward-73942": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/theara-j-ward-73942",
+                "actor": "Theara J. Ward",
+                "roles": {
+                    "Showroom Patron": "",
+                    "Las Vegas Legend": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/christina-youngman-72985": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/christina-youngman-72985",
+                "actor": "Christina Youngman",
+                "roles": {
+                    "Street Whore": "",
+                    "Working Girl": ""
+                },
+                "debut": false
+            }
+        },
+        "replacement_cast": {}
+    },
+    "/broadway-production/fine-and-dandy-9442": {
+        "url": "https://ibdb.com/broadway-production/fine-and-dandy-9442",
+        "title": "Fine and Dandy",
+        "tags": [
+            "Musical",
+            "Comedy",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "Sep 23, 1930",
+        "preview": "",
+        "num_previews": "",
+        "closing": "May 02, 1931",
+        "num_perfs": "255",
+        "people": [
+            "Music by Kay Swift",
+            " Book by Donald Ogden Stewart",
+            " Lyrics by Paul James",
+            " Uncredited book by Joe Cook",
+            " Orchestra directed by Gene Salzer",
+            " Music orchestrated by Hans Spialek"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/kay-swift-12479",
+            "https://www.ibdb.com/broadway-cast-staff/donald-ogden-stewart-5092",
+            "https://www.ibdb.com/broadway-cast-staff/paul-james-12980",
+            "https://www.ibdb.com/broadway-cast-staff/joe-cook-36158",
+            "https://www.ibdb.com/broadway-cast-staff/gene-salzer-99016",
+            "https://www.ibdb.com/broadway-cast-staff/hans-spialek-12434"
+        ],
+        "opening_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/joe-cook-36158": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joe-cook-36158",
+                "actor": "Joe Cook",
+                "roles": {
+                    "Joe Squibb": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/edna-abbey-113117": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/edna-abbey-113117",
+                "actor": "Edna Abbey",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jeanne-adams-113120": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jeanne-adams-113120",
+                "actor": "Jeanne Adams",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/james-babbitt-30576": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/james-babbitt-30576",
+                "actor": "James Babbitt",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/marjorie-bailey-103123": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/marjorie-bailey-103123",
+                "actor": "Marjorie Bailey",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/ben-bernard-14174": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/ben-bernard-14174",
+                "actor": "Ben Bernard",
+                "roles": {
+                    "Sixth Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bonnie-blackwood-92313": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bonnie-blackwood-92313",
+                "actor": "Bonnie Blackwood",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/alice-boulden-32614": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/alice-boulden-32614",
+                "actor": "Alice Boulden",
+                "roles": {
+                    "Nancy Ellis": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/paul-brack-32757": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/paul-brack-32757",
+                "actor": "Paul Brack",
+                "roles": {
+                    "Johann Giersdorf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joan-burgess-33664": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joan-burgess-33664",
+                "actor": "Joan Burgess",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jack-burley-33711": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jack-burley-33711",
+                "actor": "Jack Burley",
+                "roles": {
+                    "Clergyman": "",
+                    "The Four Horsemen": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/phyllis-cameron-34339": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/phyllis-cameron-34339",
+                "actor": "Phyllis Cameron",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/violet-casey-113107": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/violet-casey-113107",
+                "actor": "Violet Casey",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/dave-chasen-35141": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dave-chasen-35141",
+                "actor": "Dave Chasen",
+                "roles": {
+                    "Wiffington": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/laura-clairon-35351": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/laura-clairon-35351",
+                "actor": "Laura Clairon",
+                "roles": {
+                    "Aunt Lucy": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joseph-clayton-35551": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joseph-clayton-35551",
+                "actor": "Joseph Clayton",
+                "roles": {
+                    "A Clerk": "",
+                    "Harmonica Player": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/hal-clyne-113127": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/hal-clyne-113127",
+                "actor": "Hal Clyne",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/peaches-dahl-113100": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/peaches-dahl-113100",
+                "actor": "Peaches Dahl",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/frances-defoe-92327": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/frances-defoe-92327",
+                "actor": "Frances DeFoe",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/alda-deery-113104": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/alda-deery-113104",
+                "actor": "Alda Deery",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/tom-denton-113133": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/tom-denton-113133",
+                "actor": "Tom Denton",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/fritzie-deuss-113101": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/fritzie-deuss-113101",
+                "actor": "Fritzie Deuss",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/margaret-dixon-113121": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/margaret-dixon-113121",
+                "actor": "Margaret Dixon",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bert-doughty-113132": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bert-doughty-113132",
+                "actor": "Bert Doughty",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-w-ehrle-63481": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-w-ehrle-63481",
+                "actor": "John W. Ehrle",
+                "roles": {
+                    "Edgar Little": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/herman-ergotti-39664": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/herman-ergotti-39664",
+                "actor": "Herman Ergotti",
+                "roles": {
+                    "Hugo Giersdorf": "",
+                    "The Colt": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/dick-erskine-113089": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dick-erskine-113089",
+                "actor": "Dick Erskine",
+                "roles": {
+                    "Second Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/eleanor-etheridge-39753": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/eleanor-etheridge-39753",
+                "actor": "Eleanor Etheridge",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": "",
+                    "Miss Hargrave": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/murray-evans-113093": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/murray-evans-113093",
+                "actor": "Murray Evans",
+                "roles": {
+                    "The Four Horsemen": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/walter-fehl-450802": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/walter-fehl-450802",
+                "actor": "Walter Fehl",
+                "roles": {
+                    "R. V. Wilkins": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jack-flaherty-113094": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jack-flaherty-113094",
+                "actor": "Jack Flaherty",
+                "roles": {
+                    "The Four Horsemen": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/frank-gagen-41614": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/frank-gagen-41614",
+                "actor": "Frank Gagen",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/cara-gould-42702": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/cara-gould-42702",
+                "actor": "Cara Gould",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/adele-goulding-113109": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/adele-goulding-113109",
+                "actor": "Adele Goulding",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jimmy-hadreas-43638": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jimmy-hadreas-43638",
+                "actor": "Jimmy Hadreas",
+                "roles": {
+                    "Office Boy": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-hall-43766": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-hall-43766",
+                "actor": "John Hall",
+                "roles": {
+                    "First Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/may-hass-113098": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/may-hass-113098",
+                "actor": "May Hass",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/marion-herson-45021": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/marion-herson-45021",
+                "actor": "Marion Herson",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gypsy-hollis-113113": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gypsy-hollis-113113",
+                "actor": "Gypsy Hollis",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/frank-innis-46221": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/frank-innis-46221",
+                "actor": "Frank Innis",
+                "roles": {
+                    "P. Giersdorf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/genevieve-irwin-113096": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/genevieve-irwin-113096",
+                "actor": "Genevieve Irwin",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/scott-jensen-113092": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/scott-jensen-113092",
+                "actor": "Scott Jensen",
+                "roles": {
+                    "Eighth Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/dick-kirby-113128": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dick-kirby-113128",
+                "actor": "Dick Kirby",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/rose-kirsner-113099": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/rose-kirsner-113099",
+                "actor": "Rose Kirsner",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/muriel-lawlor-113112": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/muriel-lawlor-113112",
+                "actor": "Muriel Lawlor",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/eva-lewis-113115": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/eva-lewis-113115",
+                "actor": "Eva Lewis",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/bob-long-113125": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/bob-long-113125",
+                "actor": "Bob Long",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joe-lyons-50472": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joe-lyons-50472",
+                "actor": "Joe Lyons",
+                "roles": {
+                    "Insurance Agent": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jimmy-mahr-113126": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jimmy-mahr-113126",
+                "actor": "Jimmy Mahr",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/dora-maughan-51904": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/dora-maughan-51904",
+                "actor": "Dora Maughan",
+                "roles": {
+                    "Mrs. Fordyce": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jack-mcclusky-52165": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jack-mcclusky-52165",
+                "actor": "Jack McClusky",
+                "roles": {
+                    "Eukele Mike": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/pearl-mcknight-113102": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/pearl-mcknight-113102",
+                "actor": "Pearl McKnight",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/glen-meyers-113130": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/glen-meyers-113130",
+                "actor": "Glen Meyers",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/carmen-morales-77578": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/carmen-morales-77578",
+                "actor": "Carmen Morales",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/david-d-morris-37053": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/david-d-morris-37053",
+                "actor": "David D. Morris",
+                "roles": {
+                    "Foreman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/frank-naldi-54252": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/frank-naldi-54252",
+                "actor": "Frank Naldi",
+                "roles": {
+                    "A. Giersdorf": "",
+                    "Fifth Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/fred-nay-97813": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/fred-nay-97813",
+                "actor": "Fred Nay",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/george-neville-68413": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/george-neville-68413",
+                "actor": "George Neville",
+                "roles": {
+                    "The Old Man": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/chet-obrien-81845": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/chet-obrien-81845",
+                "actor": "Chet O'Brien",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mortimer-obrien-113134": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mortimer-obrien-113134",
+                "actor": "Mortimer O'Brien",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/nell-oday-54845": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/nell-oday-54845",
+                "actor": "Nell O'Day",
+                "roles": {
+                    "Maribelle Fordyce": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/eleanor-powell-56472": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/eleanor-powell-56472",
+                "actor": "Eleanor Powell",
+                "roles": {
+                    "Miss Hunter": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/victor-pullman-97816": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/victor-pullman-97816",
+                "actor": "Victor Pullman",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/gus-quinlan-113129": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/gus-quinlan-113129",
+                "actor": "Gus Quinlan",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/billy-randall-113091": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/billy-randall-113091",
+                "actor": "Billy Randall",
+                "roles": {
+                    "Seventh Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joe-reilly-113095": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joe-reilly-113095",
+                "actor": "Joe Reilly",
+                "roles": {
+                    "The Four Horsemen": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/catherine-reynolds-113123": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/catherine-reynolds-113123",
+                "actor": "Catherine Reynolds",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jack-richardson-113131": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jack-richardson-113131",
+                "actor": "Jack Richardson",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joe-riley-113090": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joe-riley-113090",
+                "actor": "Joe Riley",
+                "roles": {
+                    "Third Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/elene-ross-113103": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/elene-ross-113103",
+                "actor": "Elene Ross",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/jack-ross-58414": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/jack-ross-58414",
+                "actor": "Jack Ross",
+                "roles": {
+                    "Boy of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/j-rousseaux-46614": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/j-rousseaux-46614",
+                "actor": "J. Rousseaux",
+                "roles": {
+                    "Fourth Workman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/patsy-schenck-113110": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/patsy-schenck-113110",
+                "actor": "Patsy Schenck",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/george-a-schiller-68708": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/george-a-schiller-68708",
+                "actor": "George A. Schiller",
+                "roles": {
+                    "Mr. Ellis": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mildred-schroder-113124": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mildred-schroder-113124",
+                "actor": "Mildred Schroder",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/claribel-skinner-113106": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/claribel-skinner-113106",
+                "actor": "Claribel Skinner",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/nette-solomon-113097": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/nette-solomon-113097",
+                "actor": "Nette Solomon",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/rheta-stone-113122": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/rheta-stone-113122",
+                "actor": "Rheta Stone",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/odette-swan-113114": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/odette-swan-113114",
+                "actor": "Odette Swan",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/peggy-timmons-113111": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/peggy-timmons-113111",
+                "actor": "Peggy Timmons",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/kathleen-vannoy-113118": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/kathleen-vannoy-113118",
+                "actor": "Kathleen VanNoy",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/mary-grace-van-noy-113119": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/mary-grace-van-noy-113119",
+                "actor": "Mary Grace Van Noy",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/joe-wagstaff-63715": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/joe-wagstaff-63715",
+                "actor": "Joe Wagstaff",
+                "roles": {
+                    "George Ellis": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/pat-walshe-63932": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/pat-walshe-63932",
+                "actor": "Pat Walshe",
+                "roles": {
+                    "J. Newton Wheer": "",
+                    "The Colt": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/flo-ward-113116": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/flo-ward-113116",
+                "actor": "Flo Ward",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/amy-weber-92310": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/amy-weber-92310",
+                "actor": "Amy Weber",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/teddy-west-64579": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/teddy-west-64579",
+                "actor": "Teddy West",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/florence-wilson-1513": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/florence-wilson-1513",
+                "actor": "Florence Wilson",
+                "roles": {
+                    "Merriel Abbot Specialty Dancer": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/wanda-wood-113108": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/wanda-wood-113108",
+                "actor": "Wanda Wood",
+                "roles": {
+                    "Young Lady of the Fordyce Drop Forge and Tool Factory": ""
+                },
+                "debut": false
+            }
+        },
+        "replacement_cast": {
+            "https://www.ibdb.com/broadway-cast-staff/florence-earle-39126": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/florence-earle-39126",
+                "actor": "Florence Earle",
+                "roles": {
+                    "Aunt Lucy": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/eleanor-etheridge-39753": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/eleanor-etheridge-39753",
+                "actor": "Eleanor Etheridge",
+                "roles": {
+                    "Foreman": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/john-hall-43766": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/john-hall-43766",
+                "actor": "John Hall",
+                "roles": {
+                    "P. Giersdorf": ""
+                },
+                "debut": false
+            },
+            "https://www.ibdb.com/broadway-cast-staff/william-powers-56534": {
+                "url": "https://www.ibdb.com/broadway-cast-staff/william-powers-56534",
+                "actor": "William Powers",
+                "roles": {
+                    "Insurance Agent": ""
+                },
+                "debut": false
+            }
+        }
+    },
+    "/broadway-production/the-dancing-girl-9195": {
+        "url": "https://ibdb.com/broadway-production/the-dancing-girl-9195",
+        "title": "The Dancing Girl",
+        "tags": [
+            "Musical",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "Jan 24, 1923",
+        "preview": "",
+        "num_previews": "",
+        "closing": "May 12, 1923",
+        "num_perfs": "142",
+        "people": [
+            "Book by Harold Atteridge",
+            " Lyrics by Harold Atteridge",
+            " Music by Sigmund Romberg",
+            " Additional music by George Gershwin, A. J. Carey and Alfred Goodman",
+            " Musical Director: Alfred Goodman"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/harold-atteridge-6066",
+            "https://www.ibdb.com/broadway-cast-staff/harold-atteridge-6066",
+            "https://www.ibdb.com/broadway-cast-staff/sigmund-romberg-8686",
+            "https://www.ibdb.com/broadway-cast-staff/george-gershwin-5813",
+            "https://www.ibdb.com/broadway-cast-staff/a-j-carey-418612",
+            "https://www.ibdb.com/broadway-cast-staff/alfred-goodman-11765",
+            "https://www.ibdb.com/broadway-cast-staff/alfred-goodman-11765"
+        ],
+        "opening_cast": {},
+        "replacement_cast": {}
+    },
+    "/broadway-production/the-passing-show-of-1922-9114": {
+        "url": "https://ibdb.com/broadway-production/the-passing-show-of-1922-9114",
+        "title": "The Passing Show of 1922",
+        "tags": [
+            "Musical",
+            "Revue",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "Sep 20, 1922",
+        "preview": "",
+        "num_previews": "",
+        "closing": "Dec 02, 1922",
+        "num_perfs": "85",
+        "people": [
+            "Music by Alfred Goodman",
+            " Book by Harold Atteridge",
+            " Lyrics by Harold Atteridge",
+            " Musical Director: Alfred Goodman",
+            " Additional lyrics by Jack Stanley, Laddie Cliff and Gus Kahn",
+            " Additional music by Walter Donaldson and Ivy St. Helieu"
+        ],
+        "people_links": [
+            "https://www.ibdb.com/broadway-cast-staff/alfred-goodman-11765",
+            "https://www.ibdb.com/broadway-cast-staff/harold-atteridge-6066",
+            "https://www.ibdb.com/broadway-cast-staff/harold-atteridge-6066",
+            "https://www.ibdb.com/broadway-cast-staff/alfred-goodman-11765",
+            "https://www.ibdb.com/broadway-cast-staff/jack-stanley-452190",
+            "https://www.ibdb.com/broadway-cast-staff/laddie-cliff-35623",
+            "https://www.ibdb.com/broadway-cast-staff/gus-kahn-12999",
+            "https://www.ibdb.com/broadway-cast-staff/walter-donaldson-11598",
+            "https://www.ibdb.com/broadway-cast-staff/ivy-st-helieu-452192"
+        ],
+        "opening_cast": {},
+        "replacement_cast": {}
+    },
+    "/broadway-production/the-regatta-girl-415940": {
+        "url": "https://ibdb.com/broadway-production/the-regatta-girl-415940",
+        "title": "The Regatta Girl",
+        "tags": [
+            "Musical",
+            "Burlesque",
+            "Original",
+            "Broadway"
+        ],
+        "opening": "Mar 14, 1900",
+        "preview": "",
+        "num_previews": "",
+        "closing": "Mar 31, 1900",
+        "num_perfs": "22",
+        "people": [],
+        "people_links": [],
+        "opening_cast": {},
+        "replacement_cast": {}
+    }
+}
