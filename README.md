@@ -20,7 +20,7 @@ How can data deepen our understanding of Broadway musicals, their history, their
 **scrape_tmdb.py** scrape movies from TMDB  
 
 ### Analysis files
-**analysis_work_2.ipynb** Preliminary analyses  
-**analysis_work_exploration2.ipynb** Uses SQL database to analyze people data (actors and writers)  
-**analysis_work_exploration3.ipynb** Uses SQL database to analyze movie musical data  
-**sql_analysis_work.ipynb** Uses SQL database to analyze overall metrics  
+**analysis_work_2.ipynb** workspace for preliminary analyses  
+**analysis_work_exploration2.ipynb** workspace for analyzing people data (actors and writers)  
+**analysis_work_exploration3.ipynb** workspace for analyzing movie musical data  
+**sql_analysis_work.ipynb** workspace for analyzing overall metrics  
