@@ -6,8 +6,19 @@ How can data deepen our understanding of Broadway musicals, their history, their
 
 ## Files
 **SENIOR_THESIS_FINAL.pdf** The full written research paper
+
+### Scraping and Cleaning files
+**fix_db.py** used to fix closing dates of certain rows
+**generate_ids.py** Using the property and sequence digits that have been generated, get the tag id and make a full ID.
+**ibdb_scrape_details.py** scrape IBDB data from a single page for various musical theater metrics
+**ibdb_scrape_urls.py** Scrape URLs from an IBDB search page
+**misc_sql_work.py** workspace for cleaning and organizing MySQL database
+**populate_db.py** Populates the shows portion of the DB
+**scrape_ltbxd.py** scrape all movies from a set of list URLs from Letterboxd
+**scrape_tmdb.py** scrape movies from TMDB
+
 ### Analysis files
 **analysis_work_2.ipynb** Preliminary analyses  
-**analysis_work_exploration2.ipynb** Use SQL database to analyze people data (actors and writers)  
-**analysis_work_exploration3.ipynb** Use SQL database to analyze movie musical data  
-**sql_analysis_work.ipynb** Use SQL database to analyze overall metrics  
+**analysis_work_exploration2.ipynb** Uses SQL database to analyze people data (actors and writers)  
+**analysis_work_exploration3.ipynb** Uses SQL database to analyze movie musical data  
+**sql_analysis_work.ipynb** Uses SQL database to analyze overall metrics  
