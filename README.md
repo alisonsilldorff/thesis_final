@@ -7,7 +7,7 @@ How can data deepen our understanding of Broadway musicals, their history, their
 ## Files
 **SENIOR_THESIS_FINAL.pdf** The full written research paper
 ### Analysis files
-**analysis_work_2.ipynb** Preliminary analyses \n
-**analysis_work_exploration2.ipynb** Use SQL database to analyze people data (actors and writers) \n
-**analysis_work_exploration3.ipynb** Use SQL database to analyze movie musical data
-**sql_analysis_work.ipynb** Use SQL database to analyze overall metrics
+**analysis_work_2.ipynb** Preliminary analyses  
+**analysis_work_exploration2.ipynb** Use SQL database to analyze people data (actors and writers)  
+**analysis_work_exploration3.ipynb** Use SQL database to analyze movie musical data  
+**sql_analysis_work.ipynb** Use SQL database to analyze overall metrics  
