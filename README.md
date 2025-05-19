@@ -7,7 +7,6 @@ Advised by Professor Brian Kernighan and Professor Stacy Wolf.
 How can data deepen our understanding of Broadway musicals, their history, their actors, and their writers? This project is a data-driven digital humanities approach to understanding the Broadway musical and its related genres on Broadway. Through data collected from the Internet Broadway Database (IBDB), this project reveals the current limitations of digital theatre records and data, which in turn demonstrate the definitional challenges of this form that make it both difficult to work with and fascinating to parse. The data are analyzed to explore the development of the musical genre, the history of screen musicals, and historical demographic and career information about Broadway musical actors and writers. These analyses employ quantitative reasoning to understand theatre narratives in terms of the writers that defined the genre, examine structural gender inequality in the theatre industry, and support and question historical accounts of the Broadway musical. Furthermore, these analyses emphasize the need for further data-driven theatre research and interdisciplinary approaches to musical theatre scholarship.
 
 ## Files
-**SENIOR_THESIS_FINAL.pdf** The full written research paper
 
 ### Scraping and Cleaning files
 **fix_db.py** used to fix closing dates of certain rows  
